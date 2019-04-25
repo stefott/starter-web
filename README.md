@@ -13,3 +13,7 @@ Deply at your own risk
 ## How to contribute
 
 You can fork if you want to
+
+### Copyright
+
+2019 Stefott
