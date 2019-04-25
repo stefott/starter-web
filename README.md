@@ -16,4 +16,4 @@ You can fork if you want to of course
 
 ### Copyright
 
-2019 Stefott
+2019 Stefott - All rights reserved
