@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a repository for testing out Git and GitHub. Adding a line for rebasing example, then more changes from myfeature branch too.
+This is a repository for testing out Git and GitHub. Adding a line for rebasing example, then more changes from myfeature branch too. Emergency fix after stashing
 
 ## Purpose
 
