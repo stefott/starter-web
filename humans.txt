@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stefott -- stefott@stefott -- @stefott
 
 # THANKS
 
