@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a repository for testing out Git and GitHub
+This is a repository for testing out Git and GitHub. Adding a line for rebasing example
 
 ## Purpose
 
