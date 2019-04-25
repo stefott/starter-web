@@ -12,7 +12,7 @@ Deply at your own risk
 
 ## How to contribute
 
-You can fork if you want to
+You can fork if you want to of course
 
 ### Copyright
 
