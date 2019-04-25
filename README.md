@@ -1,9 +1,15 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is a repository for testing out Git and GitHub
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Like noted above, it's just for testing purposes
 
-### Test
+## Deployment
+
+Deply at your own risk
+
+## How to contribute
+
+You can fork if you want to
